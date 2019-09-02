@@ -20,6 +20,6 @@ This is all hosted on Digital Ocean, and because of the extremley low resources 
 
 I have the git repos on the VM to automatically run the HUGO when i push to the repo so it is pretty seamless.
 
-Thanks for reading! (THello)
+Thanks for reading!
 
 Drew
