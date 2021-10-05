@@ -11,6 +11,14 @@ williams.r.drew@gmail.com
 
 ## EXPERIENCE
 
+### LOCKHEED MARTIN| Software Engineer Asc. Owego, NY (Remote) | June 2020 - Present
+
+- Re-implemented major features in web application port using C\# and SQL.
+- Created custom machine learning model to detect objects from on-board camera.
+- Integrated machine learning model into existing object detection code repository.
+- Updated automated build pipelines to run ML model.
+- Created docker containers to allow object detection code to be portable and allow use of GPUs.
+
 ### FIRST ROBOTICS TEAM 2053| Alumni and Mentor Endicott, NY | September 2012 – Present
 
 - Lead a small team of students to program a robot while teaching them about software engineering.
@@ -52,15 +60,11 @@ Relevant Courses: Robotics Algorithms, Blockchain App Development, Software Engi
 
 ## SKILLS
 
-
-Experienced In: Java, C++, C#
-Familiar With: Python, HTML, CSS, Javascript, SQL
-
+Experienced In: C++, C\#, Robotics, HTML, CSS, Javascript, Java, C
+Familiar With: Docker, Python, SQL
 
 ## AWARDS
 
 ### 3RD PLACE Lockheed Martin Code Quest | April 2016
 
 ### INNOVATION IN CONTROL AWARD Pittsburgh FIRST Robotics Competition | March 2016
-
-
