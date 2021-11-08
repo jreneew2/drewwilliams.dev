@@ -8,11 +8,11 @@ author: "Drew Williams"
 
 I like to create software. I am especially interested in robotics, computer vision, as well as web applications. 
 
-I am currently in my senior year at the University at Buffalo studying for a B.S. in Computer Science. I am looking for a full time entry level software engineering job as I graduate in May of 2020.
+I graduated from the University at Buffalo in May of 2022. I have been working full time at Lockheed Martin as a Software Engineer. I am always open to new oppertunities so please feel free to email me if you are looking for an awesome job candidate!
 
 
 ### Contact Information
 
 Email: williams.r.drew@gmail.com
 
-Twitter: @jreneew2
+Twitter: @r4stered
