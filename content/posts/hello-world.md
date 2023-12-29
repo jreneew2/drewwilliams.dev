@@ -1,12 +1,34 @@
-+++
-title = "Hello World"
-date = 2019-07-26T01:00:09-04:00
-author = "Drew Williams"
-cover = ""
-tags = ["hugo", "technical", "digital ocean"]
-description = ""
-showFullContent = false
-+++
+---
+title: "Hello World"
+date: 2019-07-26T01:00:09-04:00
+# weight: 1
+# aliases: ["/first"]
+tags: ["hello", "world", "blog"]
+author: "Me"
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "Desc Text."
+canonicalURL: "https://drewwilliams.dev/"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+editPost:
+    URL: "https://github.com/r4stered/drewwilliams.dev/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+---
 
 Welcome to my personal website! I just wanted to quickly run through the specs of the site:
 

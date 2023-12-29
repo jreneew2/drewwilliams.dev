@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: 2019-08-31T01:32:56-04:00
+date: 2023-12-29T10:57:00-04:00
 author: "Drew Williams"
 ---
 
@@ -11,6 +11,26 @@ williams.r.drew@gmail.com
 
 ## EXPERIENCE
 
+### IARX| Software Engineer Johnson City, NY | July 2023 - Present
+
+- Created .NET desktop application to update firmware on dispensers and device peripherals.
+- Automated build and deployment of medication bagging machine software.
+- Helped maintain legacy VB software for manufacturing team.
+
+### SICK INC.| Software Engineer Minneapolis, MI (Remote) | September 2022 - July 2023
+
+- Updated statistics display software to run on all modern SICK hardware.
+- Created an application to send status and statistics about packages through REST API.
+- Used Docker to create mock REST endpoints for internal testing.
+
+### LOCKHEED MARTIN| Software Engineer Asc. Owego, NY (Remote) | June 2020 - September 2022
+
+- Re-implemented major features in web application port using C\# and SQL.
+- Created custom machine learning model to detect objects from on-board camera.
+- Integrated machine learning model into existing object detection code repository.
+- Updated automated build pipelines to run ML model.
+- Created docker containers to allow object detection code to be portable and allow use of GPUs.
+
 ### LOCKHEED MARTIN| Software Engineer Asc. Owego, NY (Remote) | June 2020 - Present
 
 - Re-implemented major features in web application port using C\# and SQL.
@@ -19,8 +39,9 @@ williams.r.drew@gmail.com
 - Updated automated build pipelines to run ML model.
 - Created docker containers to allow object detection code to be portable and allow use of GPUs.
 
-### FIRST ROBOTICS TEAM 2053| Alumni and Mentor Endicott, NY | September 2012 – Present
+### FIRST ROBOTICS TEAM 2053| Head Mentor Vestal, NY | September 2012 – Present
 
+- Leads a team of 25 High School Students and 5 Adult Mentors for robotics competition.
 - Lead a small team of students to program a robot while teaching them about software engineering.
 - Created an OpenCV application to find field targets in real time on a raspberry pi and sent information about targets back to central processor.
 - Implemented a motion profiler and path follower for a 4-wheel holonomic drive system.
