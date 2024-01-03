@@ -31,14 +31,6 @@ williams.r.drew@gmail.com
 - Updated automated build pipelines to run ML model.
 - Created docker containers to allow object detection code to be portable and allow use of GPUs.
 
-### LOCKHEED MARTIN| Software Engineer Asc. Owego, NY (Remote) | June 2020 - Present
-
-- Re-implemented major features in web application port using C\# and SQL.
-- Created custom machine learning model to detect objects from on-board camera.
-- Integrated machine learning model into existing object detection code repository.
-- Updated automated build pipelines to run ML model.
-- Created docker containers to allow object detection code to be portable and allow use of GPUs.
-
 ### FIRST ROBOTICS TEAM 2053| Head Mentor Vestal, NY | September 2012 – Present
 
 - Leads a team of 25 High School Students and 5 Adult Mentors for robotics competition.
